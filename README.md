@@ -1,5 +1,5 @@
 
-![image](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![image](https://s.yimg.com/ny/api/res/1.2/PEu1ezYeZDL3f3CxjhDZMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://s.yimg.com/os/en_US/News/BGR_News/zBANAHm.gif)
 
 
 
@@ -54,7 +54,7 @@
 </p></span>
 
 
-## Tech Stack :- 
+
 
 <!---
 Teju0910/Teju0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
