@@ -1,9 +1,8 @@
 
-![image](https://s.yimg.com/ny/api/res/1.2/PEu1ezYeZDL3f3CxjhDZMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://s.yimg.com/os/en_US/News/BGR_News/zBANAHm.gif)
 
 
 
-
+<img src="https://s.yimg.com/ny/api/res/1.2/PEu1ezYeZDL3f3CxjhDZMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://s.yimg.com/os/en_US/News/BGR_News/zBANAHm.gif" width="100%" height="auto" alt="my banner">
 <p align="center">
   <h1 align="center">:octocat: Hello, I'm Tejasvini<img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/></h1></p>
   <h2 align="center">An aspiring full-stack web developer :computer:</h2>
