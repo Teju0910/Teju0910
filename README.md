@@ -37,19 +37,18 @@
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" alt="C++" height="55"/>
       <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="55"/>
-      <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/>
-      <img src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP"  height="55"/>
-      <img src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle"  height="55"/>
-      <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/>
+<!--       <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/> -->
+<!--       <img src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP"  height="55"/> -->
+<!--       <img src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle"  height="55"/>
+      <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/> -->
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
-      <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+<!--       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+      <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/> -->
 </p></span>
 
 
