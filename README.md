@@ -7,7 +7,7 @@
   <h1 align="center">:octocat: Hello, I'm Tejasvini<img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/></h1></p>
   <h2 align="center">An aspiring full-stack web developer :computer:</h2>
   
-- 👨‍💻 All of my projects are available at Portfolio
+- 👨‍💻 All of my projects are available at [Portfolio](https://tejasvinipatil.netlify.app/)
 - 💬 Ask me about JavaScript
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me v.tejasvinipatil@gmail.com
