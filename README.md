@@ -30,7 +30,6 @@
    
 <br>
 
-
 <span><h2 align="center">Tech Stack:</h2>
   <br>
   <p align="center">
@@ -52,7 +51,10 @@
 </p></span>
 
 
-
+### 📈 GitHub Stats
+[![Tejasvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teju0910&show_icons=true)](https://github.com/Teju0910/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Teju0910&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teju0910&layout=compact)](https://github.com/Teju0910/github-readme-stats)
 
 <!---
 Teju0910/Teju0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
