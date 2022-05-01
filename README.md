@@ -59,5 +59,5 @@
 <!---
 Teju0910/Teju0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at ![image](https://user-images.githubusercontent.com/97446380/165582832-f07fbf90-435c-4b30-8b0a-c74114285a28.png)
-your changes.
+your changes..
 --->
