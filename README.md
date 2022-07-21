@@ -11,14 +11,14 @@
 - 💬 Ask me about JavaScript
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me v.tejasvinipatil@gmail.com
-- 📄 Know about my profile [Click here](https://drive.google.com/file/d/1-fRWs-S1AnQw9bKksnztcqiUDG1jT3t5/view?usp=drivesdk)
+- 📄 Know about my profile [Click here](https://drive.google.com/file/d/1V1PlWNTT9f01JnkcSpRe3MWNymmE07Bj/view)
 
 
 
 
 
   <h3>:handshake: Connect with me </h3>
-  <a href="www.linkedin.com/in/tejasvinipatil">
+  <a href="https://www.linkedin.com/in/tejasvini-patil/">
     <img align="left" src="https://raw.githubusercontent.com/isharaman8/isharaman8/main/images/linkedin.svg" alt="Aman | LinkedIn" width="25px"/>
   </a>
    <a href="https://www.instagram.com/tejabhi_patil/">
