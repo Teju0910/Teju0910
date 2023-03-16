@@ -45,10 +45,22 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+      <img src="https://www.svgrepo.com/show/439175/graphql.svg" alt="postman" width="55" height="55"/>
 <!--       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
       <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/> -->
 </p></span>
+
+
+<span><h2 align="center">Tools:</h2>
+  <br>
+  <p align="center">
+      <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vs-code" width="55" height="55"/>
+      <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" width="55" height="55"/>
+<!--       <img src="https://www.svgrepo.com/svg/508071/git-branch.svg" alt="git-branch" width="55" height="55"/> -->
+      <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+</p></span>
+
 
 
 ### 📈 GitHub Stats
