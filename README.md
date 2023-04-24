@@ -5,11 +5,11 @@
 <img src="https://s.yimg.com/ny/api/res/1.2/PEu1ezYeZDL3f3CxjhDZMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://s.yimg.com/os/en_US/News/BGR_News/zBANAHm.gif" width="100%" height="auto" alt="my banner">
 <p align="center">
   <h1 align="center">:octocat: Hello, I'm Tejasvini<img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/></h1></p>
-  <h2 align="center">An aspiring full-stack web developer :computer:</h2>
+  <h2 align="center">A Full-Stack Web Developer :computer:</h2>
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://tejasvinipatil.netlify.app/)
-- 💬 Ask me about JavaScript
-- 🌱 I’m currently learning MERN Stack
+- 💬 Ask me about React
+- 🌱 I’m working as MERN Stack developer
 - 📫 How to reach me v.tejasvinipatil@gmail.com
 - 📄 Know about my profile [Click here](https://drive.google.com/file/d/1V1PlWNTT9f01JnkcSpRe3MWNymmE07Bj/view)
 
