@@ -64,9 +64,17 @@
 
 
 ### 📈 GitHub Stats
-[![Tejasvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teju0910&show_icons=true)](https://github.com/Teju0910/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Teju0910&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teju0910&layout=compact)](https://github.com/Teju0910/github-readme-stats)
+[![Tejasvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teju0910&theme=tokyonight&show_icons=true)](https://github.com/Teju0910/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Teju0910&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teju0910&layout=compact&theme=tokyonight)](https://github.com/Teju0910/github-readme-stats)
+
+<!-- <p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Teju0910&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+</p> -->
+
+## Visitors Count 👀
+![VisitorCount](https://profile-counter.glitch.me/{Teju0910}/count.svg)
 
 <!---
 Teju0910/Teju0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
